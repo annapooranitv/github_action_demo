@@ -1,1 +1,2 @@
-print("Always Successsssssssssssss!!!")
+def always_success():
+    return "Always Successsssssssssssssss!!!"

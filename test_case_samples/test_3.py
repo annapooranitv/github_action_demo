@@ -1,1 +1,2 @@
-print("Successsssssssssssssss!!!")
+def success():
+    return "Successsssssssssssssss!!!"
